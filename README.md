@@ -6,7 +6,7 @@ Premium sports-food brand site: cinematic hero ("BIG GAME ENERGY. BIGGER BITES."
 
 ## Status — sample content
 
-- Menu items, prices (in Canadian dollars) and offers are **samples** — the real menu and prices have not been supplied yet.
+- Menu items, prices and offers are **samples** — the real menu and prices have not been supplied yet.
 - Food photos are **AI-generated concept visuals**.
 - Opening hours and email are marked **"To be confirmed"**.
 - Real address is on the site; the phone number is marked **"To be continued"** (removed at Francis's request, 2026-11-25).

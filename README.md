@@ -9,7 +9,7 @@ Premium sports-food brand site: cinematic hero ("BIG GAME ENERGY. BIGGER BITES."
 - Menu items, prices (in Canadian dollars) and offers are **samples** — the real menu and prices have not been supplied yet.
 - Food photos are **AI-generated concept visuals**.
 - Opening hours and email are marked **"To be confirmed"**.
-- Real address and phone (+1 (306) 501-8216) are on the site.
+- Real address is on the site; the phone number is marked **"To be continued"** (removed at Francis's request, 2026-11-25).
 
 ## Files
 
